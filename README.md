@@ -1,2 +1,2 @@
-# funny-text
-Funny text for Minecraft servers
+# funny text
+смешной текст для Minecraft серверов
